@@ -72,16 +72,6 @@ def notice():
 
  
 
- runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
-
- runtxt("\033[0;93m FOR FREE APPROVAL SEND THIS KEY TO ADMIN >> %s%shttps://www.facebook.com/Rakib0fficials.id"%(G,basesplit))
-
- runtxt("\033[0;92m BYPASS ADMIN MESSENGER >> m.me/support.192")
-
- subprocess.check_output(["am", "start", "https://m.me/support.192"])
-
-        
-
 plist = (platform.uname())[2]
 
 basex = plist
